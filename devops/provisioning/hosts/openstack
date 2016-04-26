@@ -1,0 +1,2 @@
+[openstack]
+62.4.25.220 ansible_ssh_user=ubuntu
